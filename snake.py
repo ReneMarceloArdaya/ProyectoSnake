@@ -20,7 +20,7 @@ texto_vida = pygame.font.SysFont("Russo One ",20)
 texto_puntaje = pygame.font.SysFont("Russo One",20)
 
 
-
+#Esto es una prueba apara el repositorio
 
 #clase de la vivirita
 class Snake:
