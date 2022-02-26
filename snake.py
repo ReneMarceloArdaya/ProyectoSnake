@@ -9,6 +9,7 @@ pygame.init()
 ANCHO = 720
 ALTO = 480
 
+#hjvgjckcv
 
 #imagen de la manzana  
 manzanaD = pygame.transform.scale(pygame.image.load(os.path.join(r"man.png")),(20,20))
@@ -20,7 +21,7 @@ texto_vida = pygame.font.SysFont("Russo One ",20)
 texto_puntaje = pygame.font.SysFont("Russo One",20)
 
 
-
+#Esto es una prueba apara el repositorio
 
 #clase de la Snake
 class Snake:
