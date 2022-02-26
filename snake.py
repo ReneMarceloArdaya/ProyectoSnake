@@ -1,7 +1,6 @@
-import pygame
+import pygame, random, os
 from pygame.math import Vector2 
-import random
-import os
+
 
 pygame.init()
 
